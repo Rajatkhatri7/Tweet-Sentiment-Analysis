@@ -1,0 +1,8 @@
+streamlit==0.63.0
+pandas==1.0.5
+numpy==1.19.0
+matplotlib==3.2.2
+plotly==4.8.2
+wordcloud==1.7.0
+Pillow==7.2.0
+Pillow-PIL==0.1.dev0
