@@ -1,3 +1,3 @@
 # Tweets-Sentiment-Analysis
 Sentiment Analysis of Tweets about US Airlines Web App:
-https://tweet-sentiment-analysis-demo.herokuapp.com/
+https://tweet--sentiment-analysis-demo.herokuapp.com/
